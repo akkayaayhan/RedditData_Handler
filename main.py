@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 29 13:58:01 2020
 
-@author: virgi
-"""
 from src.reddit_handler import RedditHandler
 from src.polarization_classifier import PolarizationClassifier
 from src.textstatistics_generator import TextStatisticGenerator
